@@ -1,4 +1,4 @@
-### Hi there 👋, I'm @drdynscript
+### Hi there 👋, I'm [drdynscript](https://github.com/drdynscript)
 
 <!--
 **drdynscript/drdynscript** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
